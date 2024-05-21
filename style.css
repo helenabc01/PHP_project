@@ -14,11 +14,11 @@
     border: 2px solid #000;
     border-radius: 4%;
     padding: 1% 3% 3%;
+    box-shadow: 10px 10px #464A85 ;
 }
 
 .form-group {
-    margin-bottom: 2%;
-    flex: 1; 
+    margin-bottom: 2%;    
 }
 
 .form-group input {
